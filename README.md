@@ -1,2 +1,0 @@
-# vitadbda002
-demo
